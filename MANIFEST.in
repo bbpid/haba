@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include haba *.css
+recursive-include haba *.csv
+recursive-include haba *.html
+recursive-include haba *.ico
+recursive-include haba *.js
+recursive-include haba *.json
+recursive-include haba *.md
+recursive-include haba *.png
+recursive-include haba *.py
+recursive-include haba *.svg
+recursive-include haba *.txt
+recursive-exclude haba *.pyc
