@@ -10,10 +10,10 @@ app_icon = "octicon octicon-archive"
 app_color = "grey"
 app_email = "riza@bbp.co.id"
 app_license = "GNU General Public License"
-app_logo_url = '/assets/haba/images/erp-icon.svg'
+app_logo_url = "/assets/haba/images/erp-icon.svg"
 website_context = {
-"favicon": "/assets/haba/images/favicon.png",
-"splash_image": "/assets/haba/images/splash.png"
+    "favicon": "/assets/haba/images/favicon.png",
+    "splash_image": "/assets/haba/images/splash.png"
 }
 
 # Includes in <head>
@@ -131,4 +131,3 @@ web_include_css = "/assets/haba/css/haba.css"
 # override_doctype_dashboards = {
 # 	"Task": "haba.task.get_dashboard_data"
 # }
-
