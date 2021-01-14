@@ -11,7 +11,10 @@ li.dropdown.dropdown-help.dropdown-mobile {
 li.dropdown.dropdown-energy-points.dropdown-mobile {
   display: none !important;
 }
-
+.app-logo {
+  width: 35px !important;
+  margin-top: -7px !important;    
+}
 .text-primary {
   color: #022152;
 }
