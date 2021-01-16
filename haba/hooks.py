@@ -16,6 +16,12 @@ website_context = {
     "splash_image": "/assets/haba/images/splash.png"
 }
 
+# Fixtures
+
+fixtures = ['Report', 'Role Profile', 'Role', 'Custom Field', 'Custom Script',
+            'Property Setter', 'Workflow', 'Workflow State', 'Workflow Action']
+
+
 # Includes in <head>
 # ------------------
 
