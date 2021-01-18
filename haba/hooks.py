@@ -26,11 +26,11 @@ fixtures = ['Report', 'Role Profile', 'Role', 'Custom Field', 'Custom Script',
 # ------------------
 
 # include js, css files in header of desk.html
-app_include_css = "/assets/haba/css/haba.css"
+app_include_css = "/assets/haba/css/habamerg.css"
 # app_include_js = "/assets/haba/js/haba.js"
 
 # include js, css files in header of web template
-web_include_css = "/assets/haba/css/haba.css"
+web_include_css = "/assets/haba/css/habamerg.css"
 # web_include_js = "/assets/haba/js/haba.js"
 
 # include js in page

@@ -1,8 +1,4 @@
-/*
-li.dropdown.dropdown-help.dropdown-mobile {
-  display: none;
-}
-*/
+
 /*To hide the Help dropdown button */
 .navbar-right .dropdown-help {
 	display:none}
